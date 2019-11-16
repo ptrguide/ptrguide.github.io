@@ -2,12 +2,15 @@
 
 Tutorial originally created by [BloatedC](https://twitter.com/BloatedC), with edits from PTR2☆TM. Some, if not all text was transferred from the original Pastebin document, but now more visually appealing and slightly easier to follow!
 
-Notes:
+### Notes:
+
 -Personally I use [UltraISO](https://www.ultraiso.com/) for editing my iso files, not sure how well it works for other programs but you're welcome to try. This little guide is gonna be written with [UltraISO](https://www.ultraiso.com/) in mind. With that noted in [UltraISO](https://www.ultraiso.com/) make sure "recompile ISO when saving" is unchecked and Super Restore is enabled.
+
 (Note from PTR2☆TM: You can also use [ImgBurn](http://imgburn.com/), but do keep in mind that the current version of [ImgBurn](http://imgburn.com/) is bundled with [OpenCandy](https://en.wikipedia.org/wiki/OpenCandy), a type of [adware](https://en.wikipedia.org/wiki/Adware).)
+
 -Get the program [MFAudio](https://www.zophar.net/download_file/3180), it's the program I use to convert the proprietary format Parappa uses into something readable and editable.
 
-##### Steps
+### Steps
 
 1. Open the Parappa 2 iso with UltraISO and navigate to the folder called "SND".
 2. Find the track you want to replace. They should have a .wp2 file extension. The numbers correspond to the stage number and the letters such as "g" and "c" correspond to the "good" and "cool" levels respectively. NOTE: the bad and awful mixes are interleaved tracks, making them a lot harder to modify. I can't help you with that as I've yet to experiment with it.
