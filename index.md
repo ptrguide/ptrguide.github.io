@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## PaRappa the Rapper Guide
 
-You can use the [editor on GitHub](https://github.com/ptrguide/ptrguide.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://avatars1.githubusercontent.com/u/57839917?s=460&v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We provide various guides for [PaRappa the Rapper](https://en.wikipedia.org/wiki/PaRappa_the_Rapper), [Um Jammer Lammy](https://en.wikipedia.org/wiki/Um_Jammer_Lammy), and [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2).
 
-### Markdown
+At the moment, we are working mostly on providing [mod](https://en.wikipedia.org/wiki/Mod_(video_gaming)) tutorials for [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2). If you need help, join the [Discord](https://discord.gg/YauNkFX).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### PaRappa the Rapper 2 Modding Guides
+Old modding tutorials, now more visually appealing! (These tutorials use outdated tools.)
+[Song Swapping](https://ptrguide.github.io/song-swapping-in-ptr2)
+[Inserting your content into .int files](https://ptrguide.github.io/custom-files-into-int-files)
+[Texture Editing](https://ptrguide.github.io/ptr2-texture-editing)
+[.iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
+[Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
+[Bad/awful song swapping](https://ptrguide.github.io/bad-awful-song-swapping-in-ptr2)
+[Model Swapping](https://ptrguide.github.io/ptr2-model-swapping)
+[Custom Lines using Hxd](https://ptrguide.github.io/hxd-line-editing)
+[Advanced song swapping](https://ptrguide.github.io/advanced-song-swapping-in-ptr2)
+[PTR2TOOLS guide, outdated](https://mgrich.github.io/html/ptr2tools)
+[Turn ptr2besms edits into .iso edits](https://ptrguide.github.io/permanent-ptr2besms)
+[PTR2TOOLS Hat Editing](https://ptrguide.github.io/hat-editing)
+[Windows Glitch Harvester tutorial for PAL Corruptions](https://ptrguide.github.io/wgh-pal)
+[parappawithfries' model swapping tutorial](https://ptrguide.github.io/ptrfries-model-swap-tutorial)
+[Edit textures of models](https://ptrguide.github.io/edit-textures-of-models)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ptrguide/ptrguide.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### NEW PaRappa the Rapper 2 Modding Guides
+[NEW - Custom Lines using ptr2besms](https://ptrguide.github.io/ptr2besms)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with creating mods? Join our [Discord](https://discord.gg/YauNkFX) and we'll be sure to help you.
