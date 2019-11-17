@@ -1,5 +1,7 @@
 ## Model Swapping
 
+[← Home](https://ptrguide.github.io)
+
 Model swaps were discovered by pips, and uses the ["Inserting your content into .int files"](https://ptrguide.github.io/custom-files-into-int-files) tutorial.
 
 ### A few things to clear up:
