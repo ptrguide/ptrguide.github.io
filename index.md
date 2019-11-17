@@ -15,6 +15,10 @@ These are more visually appealing versions of classic tutorials, but these are s
 
 [Song Swapping](https://ptrguide.github.io/song-swapping-in-ptr2)
 
+[Bad/awful song swapping](https://ptrguide.github.io/bad-awful-song-swapping-in-ptr2)
+
+[Model Swapping](https://ptrguide.github.io/ptr2-model-swapping)
+
 ### Classic PaRappa the Rapper 2 Modding Guides
 Old modding tutorials, now more visually appealing! (These tutorials use outdated tools.)
 
@@ -23,10 +27,6 @@ Old modding tutorials, now more visually appealing! (These tutorials use outdate
 [Texture Editing](https://ptrguide.github.io/ptr2-texture-editing)
 
 [Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
-
-[Bad/awful song swapping](https://ptrguide.github.io/bad-awful-song-swapping-in-ptr2)
-
-[Model Swapping](https://ptrguide.github.io/ptr2-model-swapping)
 
 [Custom Lines using Hxd](https://ptrguide.github.io/hxd-line-editing)
 
