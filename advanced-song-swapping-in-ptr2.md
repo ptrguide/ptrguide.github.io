@@ -1,5 +1,7 @@
 ## Detailed song swapping guide/"Advanced" song swapping
 
+[← Home](https://ptrguide.github.io)
+
 ### Guide originally created by TurkeyTheGobbler, with a MASSIVE overhaul by PTR2☆TM.
 
 TurkeyTheGobbler wrote this with UltraISO in mind. I've tried to clean it up, but that may not have worked. If you use [ImgBurn](http://ptrguide.github.io/ImgBurn-20191117T191421Z-001.zip) and need help, join the [Discord](https://discord.gg/YauNkFX) or email us at ptrhelpline@hotmail.com.
