@@ -1,5 +1,7 @@
 ## PTR2TOOLS Hat editing
 
+[← Home](https://ptrguide.github.io)
+
 ### Programs you will need:
 
 1. [MSYS2 MingW](https://mgrich.github.io/html/ptr2tools)
