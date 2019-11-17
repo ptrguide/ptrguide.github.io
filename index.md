@@ -23,6 +23,8 @@ These are more visually appealing versions of classic tutorials, but these are s
 
 [Model Swapping](https://ptrguide.github.io/ptr2-model-swapping)
 
+[PTR2TOOLS Hat Editing](https://ptrguide.github.io/hat-editing)
+
 ### Classic PaRappa the Rapper 2 Modding Guides
 Old modding tutorials, now more visually appealing! (These tutorials use outdated tools.)
 
@@ -36,11 +38,7 @@ Old modding tutorials, now more visually appealing! (These tutorials use outdate
 
 [Turn ptr2besms edits into .iso edits](https://ptrguide.github.io/permanent-ptr2besms)
 
-[PTR2TOOLS Hat Editing](https://ptrguide.github.io/hat-editing)
-
 [Windows Glitch Harvester tutorial for PAL Corruptions](https://ptrguide.github.io/wgh-pal)
-
-[parappawithfries' model swapping tutorial](https://ptrguide.github.io/ptrfries-model-swap-tutorial)
 
 [Edit textures of models](https://ptrguide.github.io/edit-textures-of-models)
 
