@@ -1,5 +1,7 @@
 ## Bad/awful song swapping
 
+[← Home](https://ptrguide.github.io)
+
 It is unknown who originally made this tutorial, but this is a modified version of that tutorial (thanks to PTR2☆TM#).
 
 ### Steps:
