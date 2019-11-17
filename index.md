@@ -12,6 +12,8 @@ At the moment, we are working mostly on providing [mod](https://en.wikipedia.org
 
 [UPDATED - .iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
 
+[UPDATED - Edit textures of models](https://ptrguide.github.io/edit-textures-of-models)
+
 ### CLASSIC PaRappa the Rapper 2 Modding Guides without Newer Techniques
 These are more visually appealing versions of classic tutorials, but these are some of the ones that we still recommend using to this day. (MFAudio hasn't really been updated) 
 
@@ -26,8 +28,6 @@ These are more visually appealing versions of classic tutorials, but these are s
 [PTR2TOOLS Hat Editing](https://ptrguide.github.io/hat-editing)
 
 [Windows Glitch Harvester tutorial for PAL Corruptions](https://ptrguide.github.io/wgh-pal)
-
-[Edit textures of models](https://ptrguide.github.io/edit-textures-of-models)
 
 [Turn ptr2besms edits into .iso edits](https://ptrguide.github.io/permanent-ptr2besms)
 
