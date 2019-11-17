@@ -10,10 +10,13 @@ At the moment, we are working mostly on providing [mod](https://en.wikipedia.org
 
 [UPDATED - .iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
 
-### PaRappa the Rapper 2 Modding Guides
-Old modding tutorials, now more visually appealing! (These tutorials use outdated tools.)
+### CLASSIC PaRappa the Rapper 2 Modding Guides without Newer Techniques
+These are more visually appealing versions of classic tutorials, but these are some of the ones that we still recommend using to this day. (MFAudio hasn't really been updated) 
 
 [Song Swapping](https://ptrguide.github.io/song-swapping-in-ptr2)
+
+### Classic PaRappa the Rapper 2 Modding Guides
+Old modding tutorials, now more visually appealing! (These tutorials use outdated tools.)
 
 [Inserting your content into .int files](https://ptrguide.github.io/custom-files-into-int-files)
 
