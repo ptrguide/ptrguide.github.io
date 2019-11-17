@@ -8,6 +8,8 @@ At the moment, we are working mostly on providing [mod](https://en.wikipedia.org
 
 [NEW - Custom Lines using ptr2besms](https://ptrguide.github.io/ptr2besms)
 
+[NEW - Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
+
 [UPDATED - .iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
 
 ### CLASSIC PaRappa the Rapper 2 Modding Guides without Newer Techniques
@@ -27,8 +29,6 @@ Old modding tutorials, now more visually appealing! (These tutorials use outdate
 [Inserting your content into .int files](https://ptrguide.github.io/custom-files-into-int-files)
 
 [Texture Editing](https://ptrguide.github.io/ptr2-texture-editing)
-
-[Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
 
 [Custom Lines using Hxd](https://ptrguide.github.io/hxd-line-editing)
 
