@@ -15,6 +15,8 @@ These are more visually appealing versions of classic tutorials, but these are s
 
 [Song Swapping](https://ptrguide.github.io/song-swapping-in-ptr2)
 
+[Detailed song swapping guide/"Advanced" song swapping](https://ptrguide.github.io/advanced-song-swapping-in-ptr2)
+
 [Bad/awful song swapping](https://ptrguide.github.io/bad-awful-song-swapping-in-ptr2)
 
 [Model Swapping](https://ptrguide.github.io/ptr2-model-swapping)
@@ -29,8 +31,6 @@ Old modding tutorials, now more visually appealing! (These tutorials use outdate
 [Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
 
 [Custom Lines using Hxd](https://ptrguide.github.io/hxd-line-editing)
-
-[Advanced song swapping](https://ptrguide.github.io/advanced-song-swapping-in-ptr2)
 
 [PTR2TOOLS guide, outdated](https://mgrich.github.io/html/ptr2tools)
 
