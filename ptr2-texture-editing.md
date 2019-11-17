@@ -1,5 +1,7 @@
 ## Texture Editing
 
+[← Home](https://ptrguide.github.io)
+
 First of all, you need a program called "Rainbow." [Download it here.](https://github.com/marco-calautti/Rainbow/releases)
 
 Make sure you download version 1.0.
