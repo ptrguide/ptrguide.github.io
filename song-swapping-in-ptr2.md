@@ -21,3 +21,7 @@ Tutorial originally created by [BloatedC](https://twitter.com/BloatedC), with ed
 6. Save your finished track as a .wav file.
 7. Open your new track with MFAudio, set the output as RAW Uncompressed and set the interleave to 200. DO NOT FORGET TO DO THAT, THE AUDIO WILL BE DISTORTED IF YOU DON'T! (The effect is pretty funny tho)
 8. Save the track with the same file name as the track you're replacing including the .wp2 extension. Be sure the file ends in .wp2 and not .wp2.raw.
+9. Replace the .wp2 file in the SND folder and you're good to go!
+
+Hope you found this tutorial helpful. Thank you for enjoying my content and I'd love to see what you guys could make as well. :)
+    -BloatedC
