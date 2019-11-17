@@ -1,5 +1,7 @@
 ## Inserting your content into .int files, A Complicated (for now) Journey in Modding Parappa the Rapper 2
 
+[← Home](https://ptrguide.github.io)
+
 ### A Tutorial by Frinkeldoodle, with some edits made by PTR2☆TM
 
 ARE YOU DOING A HAT TEXTURE EDIT?
