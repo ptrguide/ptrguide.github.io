@@ -1,5 +1,7 @@
 ## Windows Glitch Harvester tutorial for PAL Corruptions
 
+[← Home](https://ptrguide.github.io)
+
 ### What you will need:
 
 1. Latest version of Windows Glitch Harvester
