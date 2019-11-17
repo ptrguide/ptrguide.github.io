@@ -1,5 +1,7 @@
 ## .iso Editing Tools
 
+[← Home](https://ptrguide.github.io)
+
 ### This tutorial was originally made by Express561/BrandonThaEditor, but major changes were made in order to keep users safe, as ImgBurn contains [adware](https://en.wikipedia.org/wiki/Adware) known as [OpenCandy.](https://en.wikipedia.org/wiki/OpenCandy) Please use [this](http://ptrguide.github.io/ImgBurn-20191117T191421Z-001.zip) mirror, as it does not contain the adware and comes with the .exe and whatnot. The original tutorial was also written in the style of a YouTube video script, which isn't very... how you say... professional. Therefore, the perspective and details have been changed.
 
 Hello! If you are interested in editing .int files in PaRappa the Rapper 2, here are some tools which will help you make edits to the game's disc image file.
