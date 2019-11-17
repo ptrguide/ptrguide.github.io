@@ -1,3 +1,7 @@
+[← Home](https://ptrguide.github.io)
+
+[← Song Swapping Tutorial](https://ptrguide.github.io/song-swapping-in-ptr2)
+
 --- PaRappa The Rapper ---
 
 Chop Chop Master Onion's RAP - 220 BPM
