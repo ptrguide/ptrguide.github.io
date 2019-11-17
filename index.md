@@ -25,6 +25,12 @@ These are more visually appealing versions of classic tutorials, but these are s
 
 [PTR2TOOLS Hat Editing](https://ptrguide.github.io/hat-editing)
 
+[Windows Glitch Harvester tutorial for PAL Corruptions](https://ptrguide.github.io/wgh-pal)
+
+[Edit textures of models](https://ptrguide.github.io/edit-textures-of-models)
+
+[Turn ptr2besms edits into .iso edits](https://ptrguide.github.io/permanent-ptr2besms)
+
 ### Classic PaRappa the Rapper 2 Modding Guides
 Old modding tutorials, now more visually appealing! (These tutorials use outdated tools.)
 
@@ -35,12 +41,6 @@ Old modding tutorials, now more visually appealing! (These tutorials use outdate
 [Custom Lines using Hxd](https://ptrguide.github.io/hxd-line-editing)
 
 [PTR2TOOLS guide, outdated](https://mgrich.github.io/html/ptr2tools)
-
-[Turn ptr2besms edits into .iso edits](https://ptrguide.github.io/permanent-ptr2besms)
-
-[Windows Glitch Harvester tutorial for PAL Corruptions](https://ptrguide.github.io/wgh-pal)
-
-[Edit textures of models](https://ptrguide.github.io/edit-textures-of-models)
 
 ### Support or Contact
 
