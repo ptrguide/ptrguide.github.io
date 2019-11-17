@@ -18,7 +18,7 @@ Follow this tutorial by Chibi instead, it's simpler and should work:
 		Link: [https://pastebin.com/qq7XHpMv](https://pastebin.com/qq7XHpMv)
 	- parappa2_decompress.bms (Basically parappa2_compress but in reverse. Kinda put together with dollar store duct tape, eheheh...)
 		Link: [https://pastebin.com/sUPW8Mdb](https://pastebin.com/sUPW8Mdb)
-- Hex editor (I myself use HxD Hex Editor)
+- Hex editor (I myself use [HxD Hex Editor](https://mh-nexus.de/en/downloads.php?product=HxD20))
 
 ### Skills Required:
 - Must be comfortable doing things in a hex editor
