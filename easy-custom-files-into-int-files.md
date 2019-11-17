@@ -1,5 +1,7 @@
 ## Inserting your content into .int files (easier)
 
+[← Home](https://ptrguide.github.io)
+
 Super easy tutorial.
 
 ### Steps::
