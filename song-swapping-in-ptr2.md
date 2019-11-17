@@ -1,5 +1,7 @@
 ## Song swapping in PTR2
 
+[← Home](https://ptrguide.github.io)
+
 Tutorial originally created by [BloatedC](https://twitter.com/BloatedC), with edits from PTR2☆TM. Some, if not all text was transferred from the original Pastebin document, but now more visually appealing and slightly easier to follow!
 
 ### Notes:
