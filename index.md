@@ -6,7 +6,7 @@ At the moment, we are working mostly on providing [mod](https://en.wikipedia.org
 
 ### NEW PaRappa the Rapper 2 Modding Guides
 
-[NEW - Custom Lines using ptr2besms](https://ptrguide.github.io/ptr2besms)
+(Updated on 11/23/2019!) [NEW - Custom Lines using ptr2besms](https://ptrguide.github.io/ptr2besms)
 
 [NEW - Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
 
