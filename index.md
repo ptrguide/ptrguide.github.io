@@ -6,6 +6,8 @@ At the moment, we are working mostly on providing [mod](https://en.wikipedia.org
 
 ### NEW PaRappa the Rapper 2 Modding Guides
 
+(Added on 12/14/2019! BRAND-NEW TUTORIAL!) [NEW - How to remove the black box in PTR2](https://ptrguide.github.io/anti-black-box)
+
 (Updated on 11/23/2019!) [NEW - Custom Lines using ptr2besms](https://ptrguide.github.io/ptr2besms)
 
 [NEW - Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
