@@ -5,7 +5,7 @@
 Are you stuck with this black box issue when playing PaRappa the Rapper 2?
 ![What the black box issue looks like.](https://cdn.discordapp.com/attachments/302537923910303744/655451803399487503/unknown.png)
 
-This tutorial will explain how to remove said black box obstruction. 
+This tutorial will explain how to remove said black box obstruction. **Note: This tutorial will NOT work for users using AMD graphics cards.**
 
 ### You Will Need
 
