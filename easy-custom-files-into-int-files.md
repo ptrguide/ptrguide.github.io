@@ -6,7 +6,7 @@ Super easy tutorial.
 
 ### Steps::
 
-1. Get [pwf2tools.](http://ptrguide.github.io/pwf2tools-v9.zip)
+1. Get [pwf2tools.](https://cdn.discordapp.com/attachments/302537923910303744/661723180909723696/pwf2tools-vX-distrib1.zip)
 
 2. Using [7zip](https://www.7-zip.org/), [WinRAR](https://rarlab.com/download.htm), or whatever program that you use to extract compressed files (it MUST be able to extract .iso files!), extract the PTR2 .iso file.
 
