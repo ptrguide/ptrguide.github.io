@@ -2,7 +2,7 @@
 
 We provide various guides for [PaRappa the Rapper](https://en.wikipedia.org/wiki/PaRappa_the_Rapper), [Um Jammer Lammy](https://en.wikipedia.org/wiki/Um_Jammer_Lammy), and [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2).
 
-At the moment, we are working mostly on providing [mod](https://en.wikipedia.org/wiki/Mod_(video_gaming)) tutorials for [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2). If you need help, join the [Discord](https://discord.gg/YauNkFX). If you do not use [Discord](https://discordapp.com) [(which may be wise as the Spyware Watchdogs list Discord as spyware)](https://spyware.neocities.org/articles/discord.html), please email our help line. Our help line's email address is ptrhelpline@hotmail.com.
+At the moment, we are working mostly on providing [mod](https://en.wikipedia.org/wiki/Mod_(video_gaming)) tutorials for [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2). If you need modding help, join the [Discord](https://discord.gg/YauNkFX). If you would like to submit a speedrun/world record, join the [PTRGuide Discord](https://discord.gg/S8aettN), which is built for the community.
 
 ### NEW PaRappa the Rapper 2 Modding Guides
 
