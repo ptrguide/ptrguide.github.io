@@ -2,6 +2,9 @@
 
 We provide various guides for [PaRappa the Rapper](https://en.wikipedia.org/wiki/PaRappa_the_Rapper), [Um Jammer Lammy](https://en.wikipedia.org/wiki/Um_Jammer_Lammy), and [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2).
 
+### WORLD RECORDS
+For the first time in PTR history, SCORE ATTACK WORLD RECORDS will be available! [Check them out here!](http://bit.do/ptrrecords)
+
 ### ptrguide v2 Beta
 We are working on a major redesign of the ptrguide website. If you wish to check it out, you can find the beta [here.](https://ptrguide.github.io/new)
 
