@@ -93,7 +93,7 @@ F5 to upload your lines to PTR2
 
 #### Steps (continued):
 
-6. Once you're done playing around with your lines ([this](https://www.youtube.com/watch?v=vfis9Uzp6fM) tutorial may help if you're stuck when it comes to additional controls and more specific instructions), upload them to PCSX2/PTR2 by pressing F5 in the line editor.
+6. Once you're done playing around with your lines, upload them to PCSX2/PTR2 by pressing F5 in the line editor.
 
 Now, you should be able to play using your custom lines!
 
@@ -101,8 +101,4 @@ If you'd like to save your custom lines to a file, press "ESC" (aka the Escape k
 
 ### Still confused?
 
-Obviously, the [Discord](https://discord.gg/YauNkFX) and our helpline (ptrhelpline@hotmail.com) are options, but Unnamed Player has made 2 video tutorials if following a video tutorial is easier. Since we've provided files with space cleared up, the first video is useless, but the 2nd video is helpful (after the part in which you download the lines from PCSX2, which is redundant as we have made files for you, that is.)
-
-[https://www.youtube.com/watch?v=0aLZqF47I8E](https://www.youtube.com/watch?v=0aLZqF47I8E)
-
-[https://www.youtube.com/watch?v=vfis9Uzp6fM](https://www.youtube.com/watch?v=vfis9Uzp6fM)
+Us on the [PTR2 Modding Discord](https://discord.gg/YauNkFX) are happy to help, and ptrhelpline@hotmail.com is also available.
