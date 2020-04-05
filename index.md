@@ -8,19 +8,19 @@ For the first time in PTR history, SCORE ATTACK WORLD RECORDS will be available!
 ### ptrguide v2 Beta
 We are working on a major redesign of the ptrguide website. If you wish to check it out, you can find the beta [here.](https://ptrguide.github.io/new)
 
-At the moment, we are working mostly on providing [mod](https://en.wikipedia.org/wiki/Mod_(video_gaming)) tutorials for [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2). If you need modding help, join the [Discord](https://discord.gg/YauNkFX). If you would like to submit a speedrun/world record, join the [PTRGuide Discord](https://discord.gg/Pk3qykb), which is built for the community.
+At the moment, we are working mostly on providing [mod](https://en.wikipedia.org/wiki/Mod_(video_gaming)) tutorials for [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2). If you need modding help, join the [Discord](https://discord.gg/YauNkFX).
 
 ### NEW PaRappa the Rapper 2 Modding Guides
 
-[BIG UPDATE - Edit textures of models](https://ptrguide.github.io/edit-textures-of-models) (added proper steps for pwf2tools on 1/1/2020)
+[Edit textures of models](https://ptrguide.github.io/edit-textures-of-models) (added proper steps for pwf2tools on 1/1/2020, needs more images/cleanup)
 
-(Added on 12/14/2019! BRAND-NEW TUTORIAL!) [NEW - How to remove the black box in PTR2 **(For non-AMD Graphics cards)**](https://ptrguide.github.io/anti-black-box)
+(12/14/2019) [NEW - How to remove the black box in PTR2 **(For non-AMD Graphics cards)**](https://ptrguide.github.io/anti-black-box)
 
-(Updated on 11/23/2019!) [NEW - Custom Lines using ptr2besms](https://ptrguide.github.io/ptr2besms)
+(11/23/2019) [NEW - Custom Lines using ptr2besms](https://ptrguide.github.io/ptr2besms)
 
-[NEW - Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
+[Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
 
-[UPDATED - .iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
+[.iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
 
 ### CLASSIC PaRappa the Rapper 2 Modding Guides without Newer Techniques
 These are more visually appealing versions of classic tutorials, but these are some of the ones that we still recommend using to this day. (MFAudio hasn't really been updated) 
