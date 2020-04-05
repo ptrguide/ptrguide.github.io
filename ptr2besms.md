@@ -93,7 +93,7 @@ F5 to upload your lines to PTR2
 
 #### Steps (continued):
 
-6. Once you're done playing around with your lines ([this](https://www.youtube.com/watch?v=vfis9Uzp6fM) tutorial may help if you're stuck when it comes to additional controls and more specific instructions) (also [this](https://ptrguide.github.io/bahndaten.zip) may be useful for inspiration), upload them to PCSX2/PTR2 by pressing F5 in the line editor.
+6. Once you're done playing around with your lines ([this](https://www.youtube.com/watch?v=vfis9Uzp6fM) tutorial may help if you're stuck when it comes to additional controls and more specific instructions), upload them to PCSX2/PTR2 by pressing F5 in the line editor.
 
 Now, you should be able to play using your custom lines!
 
