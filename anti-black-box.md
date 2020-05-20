@@ -9,7 +9,7 @@ This tutorial will explain how to remove said black box obstruction. **Note: Thi
 
 ### You Will Need
 
-[-PCSX2 1.5.0](https://buildbot.orphis.net/pcsx2/index.php) (Make sure you download the latest build under "Revision"!)
+[-PCSX2](https://buildbot.orphis.net/pcsx2/index.php) (Make sure you download the latest build under "Revision"!)
 
 -A copy of PTR2 (find it yourself)
 
