@@ -1,46 +1,38 @@
-## PaRappa the Rapper Guide
+![PTRGuide Logo](https://ptrguide.github.io/new/assets/img/beta-logo.png)
+[PTR2 Modding Discord](https://discord.gg/RVa7XQc) | [PTR1/UJL Modding Discord](https://discord.gg/nA5Hkf2) | [PTRGuide Discord](https://discord.gg/Ssy9qsu)
 
-We provide various guides for [PaRappa the Rapper](https://en.wikipedia.org/wiki/PaRappa_the_Rapper), [Um Jammer Lammy](https://en.wikipedia.org/wiki/Um_Jammer_Lammy), and [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2).
+# PaRappa the Rapper 2 Tutorials
 
-### WORLD RECORDS
-For the first time in PTR history, SCORE ATTACK WORLD RECORDS will be available! [Check them out here!](http://bit.do/ptrrecords)
+## Modding Essentials
+[.iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
 
-### ptrguide v2 Beta
-We are working on a major redesign of the ptrguide website. If you wish to check it out, you can find the beta [here.](https://ptrguide.github.io/new)
+## Modding Tutorials
 
-At the moment, we are working mostly on providing [mod](https://en.wikipedia.org/wiki/Mod_(video_gaming)) tutorials for [PaRappa the Rapper 2](https://en.wikipedia.org/wiki/PaRappa_the_Rapper_2). If you need modding help, join the [Discord](https://discord.gg/YauNkFX).
+### Up-to-date tutorials:
 
-### NEW PaRappa the Rapper 2 Modding Guides
+[How to edit textures of models](https://ptrguide.github.io/edit-textures-of-models)
 
-[Edit textures of models](https://ptrguide.github.io/edit-textures-of-models) (added proper steps for pwf2tools on 1/1/2020, needs more images/cleanup)
+[How to remove the black box in PTR2 **(For non-AMD Graphics cards)**](https://ptrguide.github.io/anti-black-box)
 
-(12/14/2019) [NEW - How to remove the black box in PTR2 **(For non-AMD Graphics cards)**](https://ptrguide.github.io/anti-black-box)
-
-(11/23/2019) [NEW - Custom Lines using ptr2besms](https://ptrguide.github.io/ptr2besms)
+[How to make custom Lines using ptr2besms](https://ptrguide.github.io/ptr2besms)
 
 [Inserting your content into .int files (easier)](https://ptrguide.github.io/easy-custom-files-into-int-files)
 
-[.iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
+[Song Swapping guide](https://ptrguide.github.io/song-swapping-in-ptr2)
 
-### CLASSIC PaRappa the Rapper 2 Modding Guides without Newer Techniques
-These are more visually appealing versions of classic tutorials, but these are some of the ones that we still recommend using to this day. (MFAudio hasn't really been updated) 
+[Detailed song swapping guide](https://ptrguide.github.io/advanced-song-swapping-in-ptr2)
 
-[Song Swapping](https://ptrguide.github.io/song-swapping-in-ptr2)
+[Bad/awful song swapping guide](https://ptrguide.github.io/bad-awful-song-swapping-in-ptr2)
 
-[Detailed song swapping guide/"Advanced" song swapping](https://ptrguide.github.io/advanced-song-swapping-in-ptr2)
-
-[Bad/awful song swapping](https://ptrguide.github.io/bad-awful-song-swapping-in-ptr2)
-
-[Model Swapping](https://ptrguide.github.io/ptr2-model-swapping)
+[Model Swapping guide](https://ptrguide.github.io/ptr2-model-swapping)
 
 [PTR2TOOLS Hat Editing](https://ptrguide.github.io/hat-editing)
 
 [Windows Glitch Harvester tutorial for PAL Corruptions](https://ptrguide.github.io/wgh-pal)
 
-[Turn ptr2besms edits into .iso edits](https://ptrguide.github.io/permanent-ptr2besms)
+[How to turn ptr2besms edits into .iso edits](https://ptrguide.github.io/permanent-ptr2besms)
 
-### Classic PaRappa the Rapper 2 Modding Guides
-Old modding tutorials, now more visually appealing! (These tutorials use outdated tools.)
+### Legacy tutorials:
 
 [Inserting your content into .int files](https://ptrguide.github.io/custom-files-into-int-files)
 
@@ -50,6 +42,3 @@ Old modding tutorials, now more visually appealing! (These tutorials use outdate
 
 [PTR2TOOLS guide, outdated](https://mgrich.github.io/html/ptr2tools)
 
-### Support or Contact
-
-Having trouble with creating mods? Join our [Discord](https://discord.gg/YauNkFX) and we'll be sure to help you.
