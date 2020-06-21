@@ -1,4 +1,4 @@
-[PTR2 Modding Discord](https://discord.gg/RVa7XQc) | [PTR1/UJL Modding Discord](https://discord.gg/nA5Hkf2) | [PTRGuide Discord](https://discord.gg/Ssy9qsu)
+[PTR2 Modding Discord](https://discord.gg/RVa7XQc) | [PTR1/UJL Modding Discord](https://discord.gg/nA5Hkf2) | [PTRGuide Discord](https://discord.gg/Ssy9qsu) | [View PTRGuide on GitHub!](https://github.com/ptrguide/ptrguide.github.io)
 
 # PaRappa the Rapper 2 Tutorials
 
