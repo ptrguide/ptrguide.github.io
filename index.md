@@ -1,4 +1,3 @@
-![PTRGuide Logo](https://ptrguide.github.io/new/assets/img/beta-logo.png)
 [PTR2 Modding Discord](https://discord.gg/RVa7XQc) | [PTR1/UJL Modding Discord](https://discord.gg/nA5Hkf2) | [PTRGuide Discord](https://discord.gg/Ssy9qsu)
 
 # PaRappa the Rapper 2 Tutorials
