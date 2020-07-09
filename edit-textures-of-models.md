@@ -10,7 +10,7 @@
 
 2. PaRappa the Rapper 2 ISO (find it yourself. You can also rip the game from its PS2 disc.)
 
-3. [Pwf2tools](https://cdn.discordapp.com/attachments/302537923910303744/661723180909723696/pwf2tools-vX-distrib1.zip)
+3. [pwf2tools](https://ptrguide.github.io/pwf2tools-v11.zip)
 
 4. and motivation of course
  
