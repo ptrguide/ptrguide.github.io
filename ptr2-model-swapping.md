@@ -12,7 +12,7 @@
 
 When you get your INT extracted, all SPM files will be located in "INTDIR/PROPS".
 
-![img](./props.png)
+![img](./img/props.png)
 
 You will want to make a backup of the model you are swapping, and you need to find each model. I will use stage 3 as an example. Parappa's model is para_para.spm.
 
@@ -29,12 +29,12 @@ Finish off by inserting it into your INT file and repackaging it.
 
 Simply rename the model you want to replace and then copy your other model over it.
 
-![img1](./explorerrename.png)
+![img1](./img/explorerrename.png)
 
-![img2](./explorercopy.png)
+![img2](./img/explorercopy.png)
 
-![img3](./explorerren2.png)
+![img3](./img/explorerren2.png)
 
-![img4](./explorerfinished.png)
+![img4](./img/explorerfinished.png)
 
 There's no need to worry about the INT being too big or small, it will automatically add only the files it needs.

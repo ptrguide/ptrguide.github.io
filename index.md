@@ -25,13 +25,3 @@
 -[Windows Glitch Harvester tutorial for PAL Corruptions](https://ptrguide.github.io/wgh-pal)
 
 -[How to turn ptr2besms edits into .iso edits](https://ptrguide.github.io/permanent-ptr2besms)
-
-### Legacy tutorials (not recommended for usage!):
-
--[Inserting your content into .int files](https://ptrguide.github.io/custom-files-into-int-files)
-
--[Texture Editing](https://ptrguide.github.io/ptr2-texture-editing)
-
--[Custom Lines using Hxd](https://ptrguide.github.io/hxd-line-editing)
-
--[PTR2TOOLS guide, outdated](https://mgrich.github.io/html/ptr2tools)
