@@ -8,7 +8,7 @@
 
 (Note: ImgBurn is bunded with other applications, so if you use it and have not installed it yet, be safe and skip those.)
 
-- Get [ptr2sound](https://ptrguide.github.io/ptr2sound1.3beta.zip).
+- Get [ptr2sound](./zip/ptr2sound1.3beta.zip).
 
 - Must have your ISO extracted. You can use your respective choice of app to do this. (WinRAR/7z/Windows Explorer, etc.)
 

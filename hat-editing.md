@@ -4,7 +4,7 @@
 
 ### Programs you will need:
 
-1. [pwf2tools.](https://ptrguide.github.io/pwf2tools-v12-beta2.zip)
+1. [pwf2tools.](./zip/pwf2tools-v12-beta2.zip)
 
 2. Your legally obtained PTR2 ISO.
 

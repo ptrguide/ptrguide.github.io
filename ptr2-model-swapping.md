@@ -4,7 +4,7 @@
 
 ### Notes
 
-- You need [pwf2tools](https://ptrguide.github.io/pwf2tools-v12-beta2.zip) or ptr2tools to extract and repackage your INT.
+- You need [pwf2tools](./zip/pwf2tools-v12-beta2.zip) or ptr2tools to extract and repackage your INT.
 
 - [HxD](https://mh-nexus.de/en/hxd/) or any hex editor (for the safer way)
 

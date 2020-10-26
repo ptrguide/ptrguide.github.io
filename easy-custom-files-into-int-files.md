@@ -6,9 +6,9 @@ Super easy to do.
 
 ### Steps::
 
-1. Get [pwf2tools.](https://ptrguide.github.io/pwf2tools-v12-beta2.zip)
+1. Get [pwf2tools.](./zip/pwf2tools-v12-beta2.zip)
 
-2. Have an extracted ISO readdy.
+2. Have an extracted ISO ready.
 
 3. Open pwf2tools, and go to pwf2int. Extract your INT as you normally would (do **NOT**  use hk0 INT files!).
 
