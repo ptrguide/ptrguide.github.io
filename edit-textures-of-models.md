@@ -2,113 +2,45 @@
 
 [← Home](https://ptrguide.github.io)
 
-### Step One: Get the stuffs
-
 #### What you need:
 
-1. PCSX2 (https://pcsx2.net) TO EMULATE THE GAME
+1. PCSX2 (https://pcsx2.net) 
 
-2. PaRappa the Rapper 2 ISO (find it yourself. You can also rip the game from its PS2 disc.)
+2. Your legally obtained PTR2 ISO
 
-3. [pwf2tools](https://ptrguide.github.io/pwf2tools-v11.zip)
-
-4. and motivation of course
+3. [pwf2tools](./zip/pwf2tools-v12-beta2.zip)
  
-### Step Two: Extract the int for files
+### Step 1: Getting ready
 
-[Go here and follow Steps 2 and 3.](https://ptrguide.github.io/easy-custom-files-into-int-files)
- 
-### Step Three: Choose your model
+Extract your INT. You'll need all the files in it beforehand.
 
 Go to PROPS and choose a model.
 
-All of the models are .spm files so choose one of those.
+Models are only named with the extension ".spm". Look for who you want. Names of the model's will be shortened usually, ex: parappa = para_para.spm.
 
-Parappa's model is para_para.spm (A common one that's edited.  Just know that PaRappa's model in Stage 5 is called something different 
-for some reason having to do with the different hair styles).
+I recommend making a new folder, as things get messy when editing models.
 
-Then move your file to where all the folders of the int are stored. (Back one)
- 
-Step Four: Extracting the textures into a PNG file
+### Extracting using pwf2ext:
 
-**pwf2spm may create a blank file with no contents. You may want to get ptr2tools instead if the following fix doesn't work:**
+1. Open pwf2extract.
 
--Go to the extracted folder containing pwf2tools
+2. Fill out each box as it applies to you, save your TEX0 somewhere you'll remember. You'll need it. It should look a little something like this.
 
--Open the "bin" folder
+![img](./img/pwf2extract.png)
 
--Open pwf2int.exe, pwf2tex.exe, then pwf2spm.exe
+3. Click "Extract!" If you do not get any files, go to the bin folder of pwf2tools and run EACH exe once. (pwf2tex.exe, pwf2int.exe, pwf2spm.exe). Windows believes it's a threat sometimes since there's not a digital signature yet.
 
--Try it again.
+4. Edit your images in the folder and always remember to limit colors to 24 colors by image mode and then set image mode back to RGB. (Recommended to use GIMP if you're stuck using free software, as it is the first thing on the top of my head that I know can set image mode). Overwrite the original pngs too. They ***cannot*** be named something else than what they were before.
 
-To get MingW and ptr2tools, follow [the installation instructions here.](https://mgrich.github.io/html/ptr2tools)
+### Injecting:
 
-### Using ptr2tools (command line):
+11. Open pwf2tex and go to the "import" tab.
 
-cd into your folder holding your int files.
+13. Fill in each box as it applies for you. Shoul look a lil like this.
 
-Then do these commands:
+![img](./img/pwf2tex.png)
 
-1. Ptr2spm gtex0 (model name) (output just name this anything that doesn't have spaces)
+14. Press "Inject!"
 
-2. Ptr2tex e TEXTURES (Output from last command) (Folder where textures will be stored in)
+16. Once it's closed, go to pwf2int and repackage your INT (as long as you're ready or done editing, of course.)
 
-Now just edit the png files.  Just make sure to stay in a 16 color limit or else the game WILL NOT accept your textures.
-
-### Using pwf2tools (GUI):
-
-1. On the main menu in pwf2tools, press "ptr2spm".
-
-2. Complete each box it gives you. Remember to click the button beside each box to complete it!
-
-3. Press "Convert your SPM to tex0!"
-
-4. Close the pwf2spm window (if it doesn't automatically close).
-
-5. On the main menu in pwf2tools, press "ptr2tex".
-
-6. Press "Extract textures".
-
-7. Complete each box it gives you. Remember to click the button beside each box to complete it!
-
-8. Press "extract your tex0's textures to edit them!"
-
-9. Close the pwf2spm window (if it doesn't automatically close).
-
-10. Now, you may open your image editing software of choice and edit the textures.
-
-### ptr2tools (command line, continued):
-
-When you're done do this command:
-
-3. Ptr2tex inject TEXTURES (Output from earlier) (Folder with model textures)
-
-Lastly, we're going to make our folder an int again.  So cd again from the beginning and stop once you're at the folder where the int folder is.
-
-4. Ptr2int create [newintname.int] [Extracted int folder]
-
-### pwf2tools (GUI, continued):
-
-11. On the main menu in pwf2tools, press "ptr2tex".
-
-12. Press "Import Textures".
-
-13. Complete each box it gives you. Remember to click the button beside each box to complete it!
-
-14. Press "Inject your textures into your INT's tex0s!"
-
-15. Close the pwf2spm window (if it doesn't automatically close).
-
-16. On the main menu in pwf2tools, press "ptr2int".
-
-17. Press "Create an INT"
-
-18. Complete each box it gives you. Remember to click the button beside each box to complete it!
-
-19. Press "Create your INT!"
-
-### After using either method: 
-
-Then just insert your int file into the data folder of your iso.
-
-Done! You did it! Now, just compress together your iso and then play!

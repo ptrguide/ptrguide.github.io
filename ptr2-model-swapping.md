@@ -2,47 +2,39 @@
 
 [← Home](https://ptrguide.github.io)
 
-Model swaps were discovered by pips, and uses the ["Inserting your content into .int files"](https://ptrguide.github.io/custom-files-into-int-files) tutorial.
+### Notes
 
-### A few things to clear up:
+- You need [pwf2tools](./zip/pwf2tools-v12-beta2.zip) or ptr2tools to extract and repackage your INT.
 
-1. Model swapping may not work all the time if you fail to do it properly.
-
-2. This isn't swapping models, but more like replacing one with another (unless the 2 models to change are EXACTLY the same size, in which you can actually swap them).
-
-3. If you didn't know, models are .spm files, do not attempt to replace a model with a file that isn't a .spm.
-
-You will need:
-
-- [QuickBMS](http://aluigi.altervista.org/papers/quickbms.zip)
-
-- [parappa2_extract.bms](https://pastebin.com/WqSsPdBT)
-
-- [HxD](https://mh-nexus.de/en/hxd/) or any hex editor
+- [HxD](https://mh-nexus.de/en/hxd/) or any hex editor (for the safer way)
 
 ### Setting up:
-When you have your .int extracted, the .spm files are in the last folder. (usually 6 or 7)
 
-So you need to get the model you want to change, I'll refer to this as "Original Model"
+When you get your INT extracted, all SPM files will be located in "INTDIR/PROPS".
 
-COPY ORIGINAL MODEL AS A SEPERATE FILE, and call it something like "OriginalOriginalModel.spm", you will need it for the ["Inserting your content into .int files"](https://ptrguide.github.io/custom-files-into-int-files) tutorial.
+![img](./img/props.png)
 
-You will need a model to replace it with (IT HAS TO HAVE THE SAME OR SMALLER SIZE AS THE MODEL YOU WANT TO CHANGE)
-For this tutorial, I'll refer to this as "Replacing Model".
+You will want to make a backup of the model you are swapping, and you need to find each model. I will use stage 3 as an example. Parappa's model is para_para.spm.
 
+### Replacing original model (the safe way):
 
-### Replacing Original Model:
-So open up Original Model and Replacing Model in your hex editor.
-You DO NOT want to change the first 5 rows of the Original Model, so copy everything beyond the 5 rows in Replacing Model.
-![Gyazo Image](https://gyazo.com/75b31a6316e935959be689778ace41dc.png)
+Open up both the model you want to replace and the one you are replacing it with.
 
-But before you copy it, you have to fill Replacing Model with zeroes until it's the EXACT SAME SIZE AS ORIGINAL MODEL. (this is one of the reasons why we need replacing model to be smaller)
+You CANNOT change the first 5 lines of the model, otherwise it will BREAK it! On the model you are replacing it with, go to Edit > Select Block. Starting offset will be 00000050, ending offset will be FFFFFFFF. Click ok. Copy it with CTRL+C. If you get an error about the clipboard, ignore it. It should look like this!
+![imgurimg](https://i.imgur.com/tgc1DKJ.png)
+Now go to your other model (the one you ARE replacing), and do the same block. This time, press CTRL+V to paste instead! Then save it. You don't have to do anything else with either model.
+Finish off by inserting it into your INT file and repackaging it.
 
-So now you can copy it, goto Original Model in your hex editor, then highlight everything beyond the first 5 rows, then click the edit tab and click "Paste write", now you can save the .spm and start following Frinkeldoodles tutorial to insert the .spm into the int.
+### Replacing original model (the less safe way):
 
-NOTES:
-If you don't 100% understand what Frinkeldoodle is saying, here's some stuff to go by:
-"modifiedFile.ext" is the result of replacing the model (what you just did).
-"originalFile.ext" is the "OriginalOriginalModel.spm" file you saved earlier before you started.
+Simply rename the model you want to replace and then copy your other model over it.
 
-Now you should be able to follow the ["Inserting your content into .int files"](https://ptrguide.github.io/custom-files-into-int-files) tutorial and be able to finish the mod!
+![img1](./img/explorerrename.png)
+
+![img2](./img/explorercopy.png)
+
+![img3](./img/explorerren2.png)
+
+![img4](./img/explorerfinished.png)
+
+There's no need to worry about the INT being too big or small, it will automatically add only the files it needs.
