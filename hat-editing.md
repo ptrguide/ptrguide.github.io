@@ -1,66 +1,39 @@
-## PTR2TOOLS Hat editing
+## pwf2tools hat editing
 
 [← Home](https://ptrguide.github.io)
 
 ### Programs you will need:
 
-1. [MSYS2 MingW](https://mgrich.github.io/html/ptr2tools)
+1. [pwf2tools.](https://ptrguide.github.io/pwf2tools-v12-beta2.zip)
 
-2. A PTR2 iso (get it yourself, we can't legally provide a download link.)
+2. Your legally obtained PTR2 ISO.
 
-3. UltraISO or any other [.iso editing program](https://ptrguide.github.io/ptr2-iso-edit-tools)
+3. UltraISO/ImgBurn/isomod. Any ISO editing/injecting program will work! I'm going to be using ImgBurn for this tutorial.
 
-4. [paint.net](https://getpaint.net), [GIMP](https://www.gimp.org/), [Photoshop](https://www.photoshop.com/), or whichever photo editing software you use
+### Extracting your int 
 
-5. [Rainbow](https://www.dropbox.com/s/tzfosqzbifqieo4/rainbow_win32_bin_dev.zip?dl=1)
+First of all, extract your ISO using your respective choice of application. (7zip/WinRAR will work too if you don't want to use UltraISO or Windows' built in explorer.)
 
-### MSYS part
+Then extract your int with pwf2tools by using pwf2int. (Don't extract to just your desktop, make a new folder.)
 
-Hi there, today I will show you how you can edit hats on PTR2.
+### Editing your hat
 
-First, you need to extract your iso files and make a seperate folder for that.
+Open pwf2hat (included with pwf2tools version-12b2). It works the same as Rainbow, but is way smaller and efficient and automatically renames the TIM2s to TM1 for you!
+Open your hat file(s) you want to edit from your color choice (HAT_COLOR (RED, BLUE, PINK, YELL)). it will be called r(1-4)_para_mark (Example: r4_para_mark).
+You will see the hat texture. Go to File > Export. Save it wherever. When you go to the folder you extracted to, you will see a PNG with your hat. Edit it as you please with whatever photo editing application. Hats can have as many colors as you want, unlike normal textures in TM0 files. Just remember to save it when you are finished (**YOU CANNOT RENAME IT. KEEP IT THE SAME NAME AS IT WAS.**).
+Then, go back to pwf2hat. Go to File > Import. Import the xml file for the hat you exported (ex: r4_para_mark_01.xml). You will see your texture there! Now go to File > Save and overwrite the tm1 file you edited (ex: r4_para_mark_01.tm1).
 
-Now, in MSYS your directory should be in the data folder of your extracted iso folder.
+### Injecting into created int
 
-Now, type in this: ptr2int extract [st00gm0.int] [Folder name]
+Go back to pwf2int and go to the "create" tab. Use your INT's extracted folder to create it. Do NOT use the hat folder.
 
-### Rainbow part
+### Injecting into your ISO
 
-Now, once that has been extracted go to the extracted int folder, now to edit your tm1/hat/mark, you will need to go to the folder your hat is currently on, for example: If your hat is Yellow, you go to HAT_YELLOW folder, now, open up Rainbow and in the File tab, select "Open", then locate the tm1 you want to edit, for example: Yellow hat's tm1s are r4_para_hat01 - Main Beanie, r4_para_hat02 - The other part of the beanie, and r4_para_mark - The Mark of parappa's hat.
+It is HIGHLY recommended to backup your ISO!!! If you are ready, proceed.
 
-And remember, 1 = red, 2 = Blue, 3 = Pink, and 4 = Yellow.
-
-Select the tm1 you want to edit in rainbow, then you click "Export" on the file tab.
-
-There will be 2 files, one is an xml file, and one is a png, what you wanna do is open your image editing program, drag the png to your editing program, and edit the hat. Once you're done with that, in Rainbow you're gonna click "Import" on the File tab, then you're gonna select the XML file, that is basically the png. Now, once you've done that, go to the File tab again, then click "Save", it will save as a tm2.
-
-Now go to your explorer, locate your data folder, go to the stage you extracted, go to the Hat folder you're on, (again, example is if you're on yellow hat you select HAT_YELLOW), and delete your xml and png (you don't have to the game will ignore it), and delete your original tm1 you wanted to edit, then rename your tm2 into a tm1. And now you're set! 
-
-### MSYS part (again)
-
-Go back to MSYS and type in ptr2int create [intname.int] [Extracted int folder]
-
-NOTE: Do NOT name your int the int you extracted, for example, do NOT do ptr2int create st08gm0.int 8, that will overwrite the original int.
-
-Once you've created your int, locate it and copy it.
-
-### .iso Editing part
-
-Go to your ISO editing program. I have UltraISO so i'm gonna show you how to do it with UltraISO. You can also use ImgBurn, but this may be a little different if you use ImgBurn.
-Locate your ISO on UltraISO, click on it, go to data, paste your int that you created, then go to your original int you edited, select rename, copy the name of the int, then delete the original int, then you go to the int you created and select rename, then paste the int name. {For example: I made an int called Stage5.int, I rename it to st05gm0.int.} After you do that, click "Save" on the File tab, and wait till it's done saving, then open up PCSX2, then located the iso you edited, and boot it up.
+Find the INT file you created. It HAS to be named the same thing that you extracted! For example, if you extracted stage 1, you would have to name your INT st01gm0.int. 
+ImgBurn: Overwrite the file in ISODIR/DATA. Then open ImgBurn, and go to "Create image file from files/folders". In the extracted ISO directory, you should see everything such as DATA, DATAS, EXT, etc. Drag it all into the huge box in ImgBurn (Source box). Then create a destination ISO, call it whatever you want. Click the button at the bottom to create it. Click yes on any dialouges that come up.
 
 ### Results
 
-Go to the stage you edited, and you will see your hat has been edited! If it's a backup hat, you might wanna update PTR2Tools in MSYS.
-
-Tut provided by luqity. 
-
-Thanks to no and RMGRich for knowledge on this.
-
-And thanks to rich again for updating ptr2tools.
-
-Thanks to PTR2☆TM for rewriting portions of this tutorial.
-
-if you need any help dm me, or join the ptr2modding server here: [https://discord.gg/xpvVnYd](https://discord.gg/xpvVnYd)
-
-And credit to Chibi for the original method.
+When you start the game and go to your stage, you should see your hat! If not, try again. If you are still having trouble, go check out the PTR2 modding Discord here: [https://discord.gg/xpvVnYd](https://discord.gg/xpvVnYd)

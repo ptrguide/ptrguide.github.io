@@ -1,25 +1,26 @@
-## .iso Editing Tools
+## ISO Editing Tools
 
 [← Home](https://ptrguide.github.io)
 
-### This tutorial was originally made by Express561/BrandonThaEditor, but major changes were made in order to keep users safe, as ImgBurn contains [adware](https://en.wikipedia.org/wiki/Adware) known as [OpenCandy.](https://en.wikipedia.org/wiki/OpenCandy) Please use [this](http://ptrguide.github.io/ImgBurn-20191117T191421Z-001.zip) mirror, as it does not contain the adware and comes with the .exe and whatnot. The original tutorial was also written in the style of a YouTube video script, which isn't very... how you say... professional. Therefore, the perspective and details have been changed.
+### Always download applications you use from a trusted source! If you are getting ImgBurn, be sure to **DECLINE** the extra offers! It is adware.
 
-Hello! If you are interested in editing .int files in PaRappa the Rapper 2, here are some tools which will help you make edits to the game's disc image file.
+Hey! If you're wanting to edit your game but don't know where to get tools, you can come here to get them!
 
-### [ImgBurn, Use our mirror please!](http://ptrguide.github.io/ImgBurn-20191117T191421Z-001.zip)
+### UltraISO
 
-**If you decide to use [ImgBurn](http://imgburn.com/), PLEASE be aware that if you decide to download the software from the [official site](https://imgburn.com) (don't get it from imgburn.com, use our safe mirror instead), if you do not uncheck the "special offer" checkbox, your computer will be infected with adware, causing ads to appear in applications, and may also slow down your PC. I'd recommend a licensed copy of UltraISO instead, which costs $29.95. I'd recommend working on line editing until you are able to afford getting a copy of UltraISO, but ImgBurn still is available, and is likely safe if you uncheck this checkbox (which contains software bundled with adware, and if you uncheck it, you're safe) (it may suggest a completely different program!):**
+You can download UltraISO from [here](https://www.ultraiso.com/). Keep in mind it is paid software!
 
-![Uncheck this checkbox.](https://cdn.discordapp.com/attachments/302537923910303744/519338005178089492/unknown.png)
+### Modding Tools
 
-Only click "Next" if the checkbox is unchecked like this.
-![Only click "Next" if the checkbox is unchecked like this.](https://cdn.discordapp.com/attachments/302537923910303744/519338036241236097/unknown.png)
+You can download modding tools from here! Keep in mind that at the moment these are ALL Windows applications.
 
-#### To use the software:
+[pwf2tools](https://ptrguide.github.io/pwf2tools-v12-beta2.zip) \
+[ptr2sound](https://ptrguide.github.io/ptr2sound1.3beta.zip) \
+[ptr2inject](https://github.com/jmk-developer/ptr2inject/releases) \
+[Rainbow (alternate to pwf2hat)](https://github.com/marco-calautti/Rainbow) \
+[ptr2besms](https://drive.google.com/file/d/0BweSDVbVmFm1dnlDUVNvZWV0X3c/view?usp=sharing)
 
-First, open the .iso with Windows Explorer, and you should see a bunch of files (and folders) Select every file and copy ALL of them.
-Make a folder somewhere on your computer, and then paste the files into that folder (I think you should name the folder Parappa The Rapper 2 just in case) Then, go into the folder. Now edit the files normally like you would. Then get ImgBurn. It can turn your folders into .iso, and also it's FREE! Okay, now in ImgBurn press "create image file from folders", then select the folder on your computer in ImgBurn, then click process I think. Then, press yes when it asks, "Do you want to add the contents of the folders in the folder?" Finally, wait. Once the .iso is done processing the changes you've made, you're good to go! Finally, Open up your modded copy of PaRappa the Rapper 2 in PCSX2.
+### Resources
 
-### [UltraISO](https://www.ultraiso.com/)
-
-Since I do not own a licensed copy, I'd recommend asking for help with the software on the modding [Discord](https://discord.gg/YauNkFX). If you do not use [Discord](https://discordapp.com) [(which may be wise as the Spyware Watchdogs list Discord as spyware)](https://spyware.neocities.org/articles/discord.html), please email our help line. Our help line's email address is ptrhelpline@hotmail.com.
+Not necessarily tools, but you can find them here too. \
+[PTR2 modding server](https://discord.gg/xpvVnYd)

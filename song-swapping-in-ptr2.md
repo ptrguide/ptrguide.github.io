@@ -1,29 +1,23 @@
-## Song swapping in PTR2
+## Swapping songs with ptr2sound
 
 [← Home](https://ptrguide.github.io)
 
-Tutorial originally created by [BloatedC](https://twitter.com/BloatedC), with edits from PTR2☆TM. Some, if not all text was transferred from the original Pastebin document, but now more visually appealing and slightly easier to follow!
-
 ### Notes:
 
--Personally I use [UltraISO](https://www.ultraiso.com/) for editing my iso files, not sure how well it works for other programs but you're welcome to try. This little guide is gonna be written with [UltraISO](https://www.ultraiso.com/) in mind. With that noted in [UltraISO](https://www.ultraiso.com/) make sure "recompile ISO when saving" is unchecked and Super Restore is enabled.
+- There are multiple applications you can edit your ISO file with. UltraISO and ImgBurn is 2 examples. I'm going to use ImgBurn, just insert the file your respective way
 
-(Note from PTR2☆TM: You can also use [ImgBurn](http://imgburn.com/), but do keep in mind that the current version of [ImgBurn](http://imgburn.com/) is bundled with [OpenCandy](https://en.wikipedia.org/wiki/OpenCandy), a type of [adware](https://en.wikipedia.org/wiki/Adware).)
+(Note: ImgBurn is bunded with other applications, so if you use it and have not installed it yet, be safe and skip those.)
 
--Get the program [MFAudio](https://www.zophar.net/download_file/3180), it's the program I use to convert the proprietary format Parappa uses into something readable and editable.
+- Get [ptr2sound](https://ptrguide.github.io/ptr2sound1.3beta.zip).
+
+- Must have your ISO extracted. You can use your respective choice of app to do this. (WinRAR/7z/Windows Explorer, etc.)
 
 ### Steps
 
-1. Open the Parappa 2 iso with UltraISO and navigate to the folder called "SND".
-2. Find the track you want to replace. They should have a .wp2 file extension. The numbers correspond to the stage number and the letters such as "g" and "c" correspond to the "good" and "cool" levels respectively. NOTE: the bad and awful mixes are interleaved tracks, making them a lot harder to modify. I can't help you with that as I've yet to experiment with it.
-3. Extract the track you want to replace and open it in MFAudio.
-4. Set the interleave to 200 and export as a .wav file.
-5. Do the proper audio mixing to replace the song in your audio editor of choice (I use and recommend [Audacity](https://www.audacityteam.org/download/), it's free and functional). MAKE SURE the tempo of the new song matches the old and the silence at the beginning and end is the same as the original. If the tempo is off the song will sound terrible and the game will softlock if the silences aren't the same as the game expects them to be. THIS IS VERY IMPORTANT! 
-[Look for the song you are swapping using this list and make sure the song you're replacing it with matches the original's BPM.](./bpmlist.md)
-6. Save your finished track as a .wav file.
-7. Open your new track with MFAudio, set the output as RAW Uncompressed and set the interleave to 200. DO NOT FORGET TO DO THAT, THE AUDIO WILL BE DISTORTED IF YOU DON'T! (The effect is pretty funny tho)
-8. Save the track with the same file name as the track you're replacing including the .wp2 extension. Be sure the file ends in .wp2 and not .wp2.raw.
-9. Replace the .wp2 file in the SND folder and you're good to go!
+1. Open ptr2sound and choose your stage and rank you want. Select your WP2 since you haven't extracted it just yet. WP2s are named as so: st0Xgm0X.wp2. For stage 2 good, I would use st02gm0g.wp2. Put output as anything you want, as name doesn't matter here.
 
-Hope you found this tutorial helpful. Thank you for enjoying my content and I'd love to see what you guys could make as well. :)
-    -BloatedC
+2. Edit your WAV. Use any application to do this, just make sure you export as WAV. You can find a BPM list [in this website](https://ptrguide.github.io/bpmlist.md) for each song. You can make this as you would a normal mashup, just make sure the vocals **STAY THE SAME BPM!**, and that the song ends at the same time as the og WAV. You only need the instrumental of the song, as that's also the output of the WP2 files (This is how PTR2 manages to keep multiple lines and variations!).  When you're finished, save it as a **WAV** file.
+
+3. Reopen ptr2sound. Choose the same stage and rank you had before. This time, instead of selecting your WP2, select your WAV that you have edited. The output needs to be the same as the original WP2. You can go ahead and overwrite it, but I recommend creating a backup of ANYTHING in the ISO that you modify.
+
+4. Repackage your ISO. You can do this however you please, just make sure its ISO9660. You should be good to go!
