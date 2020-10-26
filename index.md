@@ -5,6 +5,7 @@
 ### Modding Essentials
 
 -[.iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
+-[BPM list](https://ptrguide.github.io/bpmlist)
 
 ## Modding Tutorials
 

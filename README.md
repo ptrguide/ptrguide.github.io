@@ -1,0 +1,1 @@
+Various guides for modding the "Parappa the Rapper" series games, incluing Parappa the Rapper 1, Um Jammer Lammy, and Parappa the Rapper 2. (PTR1/UJL coming soon.)
