@@ -2,52 +2,32 @@
 
 [← Song Swapping Tutorial](https://ptrguide.github.io/song-swapping-in-ptr2)
 
---- PaRappa The Rapper ---
+*BPM list updated by frylock*
 
-Chop Chop Master Onion's RAP - 220 BPM
+***--- PaRappa The Rapper 2 ---*** \
+**Toasty Buns** - 216 **/** 108 BPM \
+**Romantic Love** - 186.8 **/** 93.4 BPM \
+**BIG** - 156 **/** 78 BPM \
+**Sista Moosesha** - 204 **/** 102 BPM \
+**Hair Scare** - 210 **/** 105 BPM \ 
+**Food Court** - 204 **/** 102 BPM \
+**Noodles Can't Be Beat** - 190 **/** 95 BPM \
+**Always LOVE** - 198 **/** 99 BPM \
+**Bonus Stage** - 217.2 **/** 108.6 BPM \
+***--- PaRappa The Rapper ---*** \
+**CCMO** - 220 **/** 110 BPM \
+**Instructor Mooselini** - 214 **/** 107 BPM \
+**Prince Fleaswallow** - 156 **/** 78 BPM \
+**Cheap Cheap** - 200 **/** 100 BPM \
+**All Masters** - 192 **/** 96 BPM \
+**MC King Kong Mushi** - 204 **/** 102 BPM \
+***--- Um Jammer Lammy ---*** \
+**CCMO** - 224 **/** 112 BPM \
+**Fire Fire!!** - 200 **/** 100 BPM \
+**Baby Baby!!** - 190 **/** 95 BPM \
+**Fright Flight!!** - 176 **/** 88 BPM \
+**Power Off! Power On!** - 216 **/** 108 BPM \
+**Taste of Teriyaki** - 240 **/** 102 BPM \
+**Got to Move!** - 216 **/** 108 BPM 
 
-Instructor Mooselini's RAP - 214 BPM
-
-Prince Fleaswallow's RAP - 156 BPM
-
-Cheap Cheap the Cooking Chicken's RAP - 200 BPM
-
-All Master's RAP - 192 BPM
-
-Parappa's Live RAP with MC King Kong Mushi - 204 BPM
-
---- Um Jammer Lammy ---
-
-I Am A Master, And You! / Chop Chop Forever! - 224 BPM
-
-Fire Fire!! - 200 BPM
-
-Baby Baby!! - 190 BPM
-
-Fright Flight!! - 176 BPM
-
-Power Off! Power On! - 216 BPM
-
-Taste of Teriyaki - 240 BPM
-
-Got to Move! - 216 BPM
-
---- PaRappa The Rapper 2 ---
-
-Toasty Buns - 216 BPM
-
-Romantic Love - 187 BPM
-
-BIG - 156 BPM
-
-Sista Moosesha - 204 BPM
-
-Hair Scare - 210 BPM
-
-Food Court - 204 BPM
-
-Noodles Can't Be Beat - 190 BPM
-
-Final Party - 198 BPM
-
-Bonus Stage - 217.2 BPM
+![img](./img/bpmlist.png)
