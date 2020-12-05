@@ -4,8 +4,8 @@
 
 ### Modding Essentials
 
--[.iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools)
--[BPM list](https://ptrguide.github.io/bpmlist)
+-[.iso Editing Tools](https://ptrguide.github.io/ptr2-iso-edit-tools) \
+-[BPM list](https://ptrguide.github.io/bpmlist) \
 -[HOW To legally get PTR2 free](https://ptrguide.github.io/get-ptr2-free)
 
 ## Modding Tutorials
