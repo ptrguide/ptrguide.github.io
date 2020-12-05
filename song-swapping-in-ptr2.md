@@ -6,7 +6,7 @@
 
 - There are multiple applications you can edit your ISO file with. UltraISO and ImgBurn is 2 examples. I'm going to use ImgBurn, just insert the file your respective way
 
-(Note: ImgBurn is bundled with other applications, so if you use it and have not installed it yet, be safe and skip those.)
+(Note: ImgBurn is bunded with other applications, so if you use it and have not installed it yet, be safe and skip those.)
 
 - Get [ptr2sound](./zip/ptr2sound1.3beta.zip).
 
@@ -18,6 +18,6 @@
 
 2. Edit your WAV. Use any application to do this, just make sure you export as WAV. You can find a BPM list [in this website](https://ptrguide.github.io/bpmlist.md) for each song. You can make this as you would a normal mashup, just make sure the vocals **STAY THE SAME BPM!**, and that the song ends at the same time as the og WAV. You only need the instrumental of the song, as that's also the output of the WP2 files (This is how PTR2 manages to keep multiple lines and variations!).  When you're finished, save it as a **WAV** file.
 
-3. Reopen ptr2sound. Choose the same stage and rank you had before. This time, instead of selecting your WP2, select your WAV that you have edited. The output needs to be the same as the original WP2. You can go ahead and overwrite it, but I recommend creating a backup of ANYTHING in the ISO that you modify. (example: stage 2 would be st02gm0g.wp2 as the output.)
+3. Reopen ptr2sound. Choose the same stage and rank you had before. This time, instead of selecting your WP2, select your WAV that you have edited. The output needs to be the same as the original WP2. You can go ahead and overwrite it, but I recommend creating a backup of ANYTHING in the ISO that you modify.
 
 4. Repackage your ISO. You can do this however you please, just make sure its ISO9660. You should be good to go!
