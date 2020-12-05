@@ -20,7 +20,7 @@ You will want to make a backup of the model you are swapping, and you need to fi
 
 Open up both the model you want to replace and the one you are replacing it with.
 
-You CANNOT change the first 5 lines of the model, otherwise it will BREAK it (when using hex)! On the model you are replacing the original one with, go to Edit > Select Block. Starting offset will be 00000050, ending offset will be FFFFFFFF. Click ok. Copy it with CTRL+C. If you get an error about the clipboard, ignore it. It should look like this!
+You CANNOT change the first 5 lines of the model, otherwise it will BREAK it! On the model you are replacing it with, go to Edit > Select Block. Starting offset will be 00000050, ending offset will be FFFFFFFF. Click ok. Copy it with CTRL+C. If you get an error about the clipboard, ignore it. It should look like this!
 ![imgurimg](https://i.imgur.com/tgc1DKJ.png)
 Now go to your other model (the one you ARE replacing), and do the same block. This time, press CTRL+V to paste instead! Then save it. You don't have to do anything else with either model.
 Finish off by inserting it into your INT file and repackaging it.
