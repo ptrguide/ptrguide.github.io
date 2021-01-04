@@ -8,7 +8,7 @@
 
 2. Your legally obtained PTR2 ISO
 
-3. [pwf2tools](./zip/pwf2tools-v12-beta2.zip)
+3. [pwf2tools](https://github.com/pahaze/pwf2tools-cs/releases)
  
 ### Step 1: Getting ready
 

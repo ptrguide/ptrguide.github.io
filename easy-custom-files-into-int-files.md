@@ -6,7 +6,7 @@ Super easy to do.
 
 ### Steps::
 
-1. Get [pwf2tools.](./zip/pwf2tools-v12-beta2.zip)
+1. Get [pwf2tools.](https://github.com/pahaze/pwf2tools-cs/releases)
 
 2. Have an extracted ISO ready.
 
