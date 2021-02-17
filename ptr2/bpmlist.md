@@ -1,6 +1,6 @@
 [← Home](https://ptrguide.github.io)
 
-[← Song Swapping Tutorial](https://ptrguide.github.io/song-swapping-in-ptr2)
+[← Song Swapping Tutorial](https://ptrguide.github.io/ptr2/song-swapping-in-ptr2)
 
 *BPM list updated by frylock*
 

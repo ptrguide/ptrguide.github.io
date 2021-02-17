@@ -26,7 +26,7 @@ I recommend making a new folder, as things get messy when editing models.
 
 2. Fill out each box as it applies to you, save your TEX0 somewhere you'll remember. You'll need it. It should look a little something like this.
 
-![img](./img/pwf2extract.png)
+![img](../img/pwf2extract.png)
 
 3. Click "Extract!" If you do not get any files, go to the bin folder of pwf2tools and run EACH exe once. (pwf2tex.exe, pwf2int.exe, pwf2spm.exe). Windows believes it's a threat sometimes since there's not a digital signature yet.
 
@@ -38,7 +38,7 @@ I recommend making a new folder, as things get messy when editing models.
 
 13. Fill in each box as it applies for you. Shoul look a lil like this.
 
-![img](./img/pwf2tex.png)
+![img](../img/pwf2tex.png)
 
 14. Press "Inject!"
 
