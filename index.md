@@ -7,8 +7,9 @@
 <details>
 <summary>Parappa the Rapper 2</summary>
 
--[.iso Editing Tools](https://ptrguide.github.io/ptr2/ptr2-iso-edit-tools)<br>
--[BPM list](https://ptrguide.github.io/ptr2/bpmlist)
+-<a href="https://ptrguide.github.io/ptr2/ptr2-iso-edit-tools">[.iso Editing Tools]</a>
+<br>
+-<a href="https://ptrguide.github.io/ptr2/bpmlist">[BPM list]</a>
 
 </details>
 

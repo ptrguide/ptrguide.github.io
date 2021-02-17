@@ -31,13 +31,13 @@ Finish off by inserting it into your INT file and repackaging it.
 
 Simply rename the model you want to replace and then copy your other model over it.
 
-![img1](../img/explorerrename.png)
+<img src="../img/explorerrename.png"></img>
 
-![img2](../img/explorercopy.png)
+<img src="../img/explorercopy.png"></img>
 
-![img3](../img/explorerren2.png)
+<img src="../img/explorerren2.png"></img>
 
-![img4](../img/explorerfinished.png)
+<img src="../img/explorerfinished.png"></img>
 
 There's no need to worry about the INT being too big or small, it will automatically add only the files it needs.
 </details>
