@@ -17,11 +17,11 @@ You can download modding tools from here! Keep in mind that at the moment these 
 <details>
 <summary>PaRappa the Rapper 2</summary>
 
-[pwf2tools - INT and texture modding tools](https://github.com/pahaze/pwf2tools-cs/releases) \
-[ptr2sound - Sound modding tools](../zip/ptr2sound1.3beta.zip) \
-[ptr2inject](https://github.com/jmk-developer/ptr2inject/releases) \
-[Rainbow (alternate to pwf2hat) - Edits hats/TM1s](https://github.com/marco-calautti/Rainbow) \
-[ptr2besms - Line editing tool](https://drive.google.com/file/d/0BweSDVbVmFm1dnlDUVNvZWV0X3c/view?usp=sharing)
+<a href="https://github.com/pahaze/pwf2tools-cs/releases">pwf2tools - INT and texture modding tools</a> <br>
+<a href="../zip/ptr2sound1.3beta.zip">ptr2sound - Sound modding tools</a> <br>
+<a href="https://github.com/jmk-developer/ptr2inject/releases">ptr2inject</a> <br>
+<a href="https://github.com/marco-calautti/Rainbow">Rainbow (alternate to pwf2hat) - Edits hats/TM1s</a><br>
+<a href="https://drive.google.com/file/d/0BweSDVbVmFm1dnlDUVNvZWV0X3c/view?usp=sharing">ptr2besms - Line editing tool</a>
 </details>
 
 ### Resources
