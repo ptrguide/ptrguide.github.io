@@ -20,6 +20,24 @@ Models are only named with the extension ".spm". Look for who you want. Names of
 
 I recommend making a new folder, as things get messy when editing models.
 
+### Extracting using pwf2spm and pwf2tex:
+
+1. Open pwf2spm.
+
+2. Fill out each box as it applies to you. Be sure to save your tex0 somewhehre you'll remember, you will need it. It should look something like this...
+
+![img](../img/pwf2spm-fill.png)
+
+3. Run it.
+
+4. Now run pwf2tex. Same deal here, fill in boxes as applies. It should look something like this.
+
+![img](../img/pwf2tex-fill.png)
+
+(I would recommend using a new folder for your png files, otherwise it'd get messy.)
+
+5. Run it. You can now edit your images in the folder, but always remember to limit colors to 24 colors by image mode and then set image mode back to RGB. (Recommended to use GIMP if you're stuck using free software, as it is the first thing on the top of my head that I know can set image mode). Overwrite the original pngs too. They ***cannot*** be named something else than what they were before.
+
 ### Extracting using pwf2ext:
 
 1. Open pwf2extract.
