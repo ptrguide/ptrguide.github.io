@@ -12,6 +12,13 @@
 -<a href="https://ptrguide.github.io/ptr2/bpmlist">[BPM list]</a>
 
 </details>
+<details>
+<summary>Um Jammer Lammy</summary>
+
+-<a href="https://ptrguide.github.io/ptr1ujl/ptr1-ujl-iso-edit-tools">[PTR1/UJL Image Editing Tools]</a>
+<br>
+
+</details>
 
 ## PaRappa the Rapper 2 Modding Tutorials
 
@@ -32,3 +39,7 @@
 -[Windows Glitch Harvester tutorial for PAL Corruptions](https://ptrguide.github.io/ptr2/wgh-pal)
 
 -[How to turn ptr2besms edits into .iso edits](https://ptrguide.github.io/ptr2/permanent-ptr2besms)
+
+## Um Jammer Lammy Modding Tutorials
+
+-[How to song swap in UJL](https://ptrguide.github.io/ptr1ujl/ujl-song-swapping)
