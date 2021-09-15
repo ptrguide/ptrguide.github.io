@@ -10,7 +10,7 @@
 
 - UJL image. We can't provide this, you pierats!
 
-- [CDmage/XA Audio Converter]("https://ptrguide.github.io/ptr1ujl/ptr1-ujl-iso-edit-tools")
+- [CDmage/XA Audio Converter](https://ptrguide.github.io/ptr1ujl/ptr1-ujl-iso-edit-tools)
 
 ### Steps:
 
